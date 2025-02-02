@@ -2,7 +2,8 @@
 
 This repository contains a Python script that creates an animated ASCII art representation of an image. The script loads an image and outputs an ASCII art animation to the terminal. It also includes instructions for automatically running the script when you log in via SSH.
 
-![ASCII Art Demo](demo.png)
+<!-- ![ASCII Art Demo](assets/img.png) -->
+<img src="assets/img.png" alt="ASCII Art Demo" width="250" />
 
 > **Note:** Replace `demo.png` with your own screenshot image of the ASCII art output. Add the image to your repository or update the URL accordingly.
 
